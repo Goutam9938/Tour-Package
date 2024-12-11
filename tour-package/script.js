@@ -7,11 +7,6 @@ const imageLib = [
             'https://www.mypuritour.com/wp-content/uploads/2022/08/puri-tour-2022.jpeg',
             'https://www.mypuritour.com/wp-content/uploads/2022/08/puri-tour-2022.jpeg'
         ],
-        
-        
-        
-
-        
     }
     
 ]
